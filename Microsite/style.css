@@ -1,0 +1,17 @@
+.body1{
+    
+    background-color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body2{
+    text-align: center;
+}
+
+p{
+        color: skyblue;
+}
