@@ -1,0 +1,41 @@
+div{
+    margin: 50px auto;
+}
+.red{
+    width: 20px;
+    height: 20px;
+    background-color: orangered;
+    padding: 50px;
+    position: relative;
+    right: 65px;
+    
+
+}
+.green{
+    width: 20px;
+    height: 20px;
+    background-color: lawngreen;
+    padding: 50px;
+    position: relative;
+    bottom: 170px;   
+    left: 65px;
+}
+.blue{
+    width: 20px;
+    height: 20px;
+    background-color: deepskyblue;
+    padding:50px;
+    position: relative;
+    bottom: 210px;
+    right: 65px;
+
+}
+.yellow{
+    width: 20px;
+    height: 20px;
+    background-color: gold;
+    padding: 50px;
+    position: relative;
+    bottom: 380px;
+    left: 65px;
+}
